@@ -1,4 +1,4 @@
-# ! CoinMarketCap (CMC) COMMENT, SHILLER BOT
+# ! CoinMarketCap (CMC) COMMENT, SHILLER BOT !
 ・You cannot run this bot by downloading it from Github. The full state of the bot is required!‼️
 
 ・If you want to buy the bot, contact me on Telegram: https://t.me/adrianservices👍
