@@ -1,7 +1,7 @@
 # ! CoinMarketCap (CMC) COMMENT, SHILLER BOT !
 ・You cannot run this bot by downloading it from Github. The full state of the bot is required!‼️
 
-・If you want to buy the bot, contact me on Telegram: https://t.me/adrianservices👍
+・If you want to buy the bot, contact me on Telegram: https://t.me/swiftservicesowner👍
 # FEATURES
 Most major coin developers use this bot. Thanks to this bot, you can automatically send dozens of comments to the coin you want.
 
@@ -19,4 +19,4 @@ Most major coin developers use this bot. Thanks to this bot, you can automatical
 
 ✅Cheap prices!
 
-DM me from Telegram: https://t.me/adrianservices if you are interested.🤝
+DM me from Telegram: https://t.me/swiftservicesowner if you are interested.🤝
